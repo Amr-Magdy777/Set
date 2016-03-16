@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1456524309 source:c:\users\ryuk\desktop\a1_p9_g7_20140196\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Set.h"
+
+1456524339 c:\users\ryuk\desktop\a1_p9_g7_20140196\include\set.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1456524320 source:c:\users\ryuk\desktop\a1_p9_g7_20140196\src\set.cpp
+	"Set.h"
+
+1456524320 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196\a1_p9_g7_20140196\src\set.cpp
+	"Set.h"
+
+1456524339 c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196\a1_p9_g7_20140196\include\set.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1456870950 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\a1_p9_g7_20140196\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Set.h"
+
+1456524339 c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\a1_p9_g7_20140196\include\set.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1456524320 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\a1_p9_g7_20140196\src\set.cpp
+	"Set.h"
+
+1456870950 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\set\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"Set.h"
+
+1456524339 c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\set\include\set.h
+	<iostream>
+	<vector>
+	<algorithm>
+
+1456524320 source:c:\users\ryuk\desktop\a1_islamali_g7_20140196-20140192-20140064\a1_islamali_g7_20140196-20140192-20140064\amr_magdy_ibrahim-20140196-g7\set\src\set.cpp
+	"Set.h"
+
